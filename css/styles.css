@@ -68,6 +68,7 @@ header {
 .profile-img {
 	border-radius: 50%;
 }
+
 header h1, header h2 {
 	color: #EDF2F4;
 	margin: 0;
@@ -162,4 +163,19 @@ p + h3 {
 	.profile-img {
 		width: 200px;
 	}
+}
+/*Pages
+--------------------------------*/
+.logo-img {
+	height: auto;
+ 	max-width: 60px;
+}
+
+.jsProj {
+	text-align: center;
+}
+
+.jsProj h2 {
+	font-family: 'Caveat', cursive;
+	font-weight: 400;
 }
